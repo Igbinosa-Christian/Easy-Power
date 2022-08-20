@@ -1,4 +1,4 @@
-# Easy-Shutdown
+# Easy-Power
 From my experience, sometimes shutting down your computer might be stressful becuase you have to type a shortcut, hold down the power button or go into the windows tab. 
 So I thought about this Python Program to get the job done with just a click.
 
